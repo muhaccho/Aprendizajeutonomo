@@ -1,0 +1,15 @@
+COMANDOS BASICOS DE GIT
+
+Comandos para guardar
+
+- git status (visualizar estatus de los archivos: modificado, actualizado, eliminado)
+- git add .  (sirve para poner todos los archivos en el stage es decir tenerlos en el radar)
+- git commit -m "dev-jair: hice cambios en el archivo tal" (sirve para guardar cambios, genera una version del proyecto)
+- git push origin <nombre-rama-remota> (Sirve para subir cambios realizados a la rama remota en el repositorio de github)
+
+Comandos generales
+
+- git log (visualiza todas las versiones del proyecto)
+- git checkout <nombre-rama> (sirve para cambiarse de rama)
+- git branch <nombre-rama> (sirve para crear ramas)
+
